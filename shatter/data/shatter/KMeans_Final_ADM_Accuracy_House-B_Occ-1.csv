@@ -1,0 +1,2 @@
+True Anomaly,False Benign,True Benign,False Anomaly,Accuracy,Precision,Recall,F1-Score
+69,31,82,18,0.755,0.7931034482758621,0.69,0.7379679144385026
